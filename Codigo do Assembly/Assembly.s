@@ -1,7 +1,5 @@
 .data
 
-
-
 mensagem: 	.asciiz "Digite o primeiro numero: "
 mensagem2: 	.asciiz "Digite o segundo numero: "
 saida: 	    .asciiz "Digite a saida desejada: "
@@ -27,7 +25,6 @@ zeroASFlotat: .float 0.0
 # f7 = peso total
 # f8 = erro
 # f9 = variavel temporaria par calculo de peso
-
 
 .text
     
