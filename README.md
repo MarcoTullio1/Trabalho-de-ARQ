@@ -1,2 +1,2 @@
 # Trabalho de ARQ
- Trabahlo feito em assembly
+ Trabalho feito em assembly
